@@ -1,11 +1,22 @@
+.question-container {
+  display: none;
+}
 #timer {
   position: fixed;
   top: 10px;
   right: 20px;
 }
-/* .start-prompt {
-    
-} */
-.question-container {
+.high-score-container {
+  text-align: center;
   display: none;
+}
+h1 {
+  text-align: center;
+}
+.score-board {
+  text-align: center;
+}
+.center-to-page {
+  width: 125px;
+  margin: 20px auto;
 }
